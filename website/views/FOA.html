@@ -1,0 +1,31 @@
+{% extends "base.html" %} {% block main %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-eye-open"></span> 实现过程</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="/static/images/FOA.png" class="img-responsive">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-tags"></span> 算法介绍</h3>
+                </div>
+                <div class="panel-body">
+                    <h3>果蝇算法</h3>
+                    <p>FOA算法是一种全新的智能进化算法，是依据果蝇觅食特性，抽象出的群体智能进化算法。
+                        在实验观察中，果蝇凭借其特殊的视觉和嗅觉，利用气味浓度确定食物位置。
+                        基于此，FOA 算法寻优过程则包括以下部分。</p>
+                    <p>首先，利用果蝇个体气味浓度值大小寻找种群极值，
+                        然后，种群移动到该极值处进行新气味浓度寻找，如此往复，最终找到食物位置，即最优解位置。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

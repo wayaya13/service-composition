@@ -1,0 +1,30 @@
+{% extends "base.html" %} {% block main %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-eye-open"></span> 实现过程</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="/static/images/GA.png" class="img-responsive">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-tags"></span> 算法介绍</h3>
+                </div>
+                <div class="panel-body">
+                    <h3>遗传算法</h3>
+                    <p>遗传算法是模拟达尔文生物进化论的自然选择和遗传学机理的生物进化过程的计算模型，
+                        是一种模拟自然进化过程搜索最优解的方法。</p>
+                    <p>在遗传算法中，通过个体编码组成初始种群，然后，利用提出的适应度函数施加一定的操作，
+                        如选择、交叉、变异，从而实现优胜劣汰的进化过程。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

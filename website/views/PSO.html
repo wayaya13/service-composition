@@ -1,0 +1,30 @@
+{% extends "base.html" %} {% block main %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-eye-open"></span> 实现过程</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="/static/images/PSO.png" class="img-responsive">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-tags"></span> 算法介绍</h3>
+                </div>
+                <div class="panel-body">
+                    <h3>粒子群算法</h3>
+                    <p>PSO算法是1995年提出的一种启发式进化计算方法，来源于对生物群体智能行为的简化模拟。</p>
+                    <p>PSO算法在初始阶段随机产生一个初始种群并赋予种群中的每个粒子一个随机速度，
+                        在飞行过程中粒子的速度依据自身以及种群的飞行经验进行不断的调整，
+                        使整个种群能够飞向更好的搜索区域，从而发现较优的解。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

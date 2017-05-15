@@ -1,0 +1,55 @@
+C:\Users\HP\Desktop\GA_C#\GA\GA\bin\Debug\GA.exe
+C:\Users\HP\Desktop\GA_C#\GA\GA\bin\Debug\GA.pdb
+C:\Users\HP\Desktop\GA_C#\GA\GA\obj\x86\Debug\GA.exe
+C:\Users\HP\Desktop\GA_C#\GA\GA\obj\x86\Debug\GA.pdb
+C:\Users\HP\Desktop\GA_C#\GA\obj\x86\Debug\GA.exe
+C:\Users\HP\Desktop\GA_C#\GA\obj\x86\Debug\GA.pdb
+C:\Users\HP\Desktop\GA_C#\GA\bin\Debug\GA.exe
+C:\Users\HP\Desktop\GA_C#\GA\bin\Debug\GA.pdb
+C:\Users\HP\Desktop\GA_C# 改进版\GA\obj\x86\Debug\GA.exe
+C:\Users\HP\Desktop\GA_C# 改进版\GA\obj\x86\Debug\GA.pdb
+C:\Users\HP\Desktop\GA_C# 改进版\GA\bin\Debug\GA.exe
+C:\Users\HP\Desktop\GA_C# 改进版\GA\bin\Debug\GA.pdb
+C:\Users\HP\Desktop\GA_C# 改进版\GA\obj\x86\Debug\GA.csprojResolveAssemblyReference.cache
+D:\实验程序\GA_C#\GA\obj\x86\Debug\GA.exe
+D:\实验程序\GA_C#\GA\obj\x86\Debug\GA.pdb
+D:\实验程序\GA_C#\GA\bin\Debug\GA.exe
+D:\实验程序\GA_C#\GA\bin\Debug\GA.pdb
+D:\实验程序\GA_C#\GA\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\第二篇IFOA4WSC\IFOA4WSC源码\GA_C#\GA\obj\x86\Debug\GA.exe
+E:\第二篇IFOA4WSC\IFOA4WSC源码\GA_C#\GA\obj\x86\Debug\GA.pdb
+E:\第二篇IFOA4WSC\IFOA4WSC源码\GA_C#\GA\bin\Debug\GA.exe
+E:\第二篇IFOA4WSC\IFOA4WSC源码\GA_C#\GA\bin\Debug\GA.pdb
+E:\第二篇IFOA4WSC\IFOA4WSC源码\GA_C#\GA\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\GA_C#\GA\obj\x86\Debug\GA.exe
+F:\GA_C#\GA\obj\x86\Debug\GA.pdb
+F:\GA_C#\GA\bin\Debug\GA.exe
+F:\GA_C#\GA\bin\Debug\GA.pdb
+F:\GA_C#\GA\obj\x86\Debug\GA.csprojResolveAssemblyReference.cache
+H:\人工智能\GA_C#\GA\obj\x86\Debug\GA.exe
+H:\人工智能\GA_C#\GA\obj\x86\Debug\GA.pdb
+H:\人工智能\GA_C#\GA\bin\Debug\GA.exe
+H:\人工智能\GA_C#\GA\bin\Debug\GA.pdb
+H:\人工智能\GA_C#\GA\obj\x86\Debug\GA.csprojResolveAssemblyReference.cache
+I:\人工智能\GA_C#\GA\obj\x86\Debug\GA.exe
+I:\人工智能\GA_C#\GA\obj\x86\Debug\GA.pdb
+I:\人工智能\GA_C#\GA\bin\Debug\GA.exe
+I:\人工智能\GA_C#\GA\bin\Debug\GA.pdb
+I:\人工智能\GA_C#\GA\obj\x86\Debug\GA.csprojResolveAssemblyReference.cache
+F:\程序\人工智能\GA_C#\GA\obj\x86\Debug\GA.exe
+F:\程序\人工智能\GA_C#\GA\obj\x86\Debug\GA.pdb
+F:\程序\人工智能\GA_C#\GA\bin\Debug\GA.exe
+F:\程序\人工智能\GA_C#\GA\bin\Debug\GA.pdb
+F:\程序\人工智能\GA_C#\GA\obj\x86\Debug\GA.csprojResolveAssemblyReference.cache
+E:\人工智能作业\GA_C#\GA\obj\x86\Debug\GA.exe
+E:\人工智能作业\GA_C#\GA\obj\x86\Debug\GA.pdb
+H:\毕设\SE\实验\GA_C#\GA\obj\x86\Debug\GA.exe
+H:\毕设\SE\实验\GA_C#\GA\obj\x86\Debug\GA.pdb
+H:\毕设\SE\实验\GA_C#\GA\bin\Debug\GA.exe
+H:\毕设\SE\实验\GA_C#\GA\bin\Debug\GA.pdb
+H:\毕设\SE\实验\GA_C#\GA\obj\x86\Debug\GA.csprojResolveAssemblyReference.cache
+F:\毕设\SE\实验\GA_C#\GA\obj\x86\Debug\GA.exe
+F:\毕设\SE\实验\GA_C#\GA\obj\x86\Debug\GA.pdb
+F:\毕设\SE\实验\GA_C#\GA\bin\Debug\GA.exe
+F:\毕设\SE\实验\GA_C#\GA\bin\Debug\GA.pdb
+F:\毕设\SE\实验\GA_C#\GA\obj\x86\Debug\GA.csprojResolveAssemblyReference.cache

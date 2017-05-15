@@ -1,0 +1,29 @@
+{% extends "base.html" %} {% block main %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-eye-open"></span> 实现过程</h3>
+                </div>
+                <div class="panel-body">
+                    <img src="/static/images/SA.png" class="img-responsive">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-tags"></span> 算法介绍</h3>
+                </div>
+                <div class="panel-body">
+                    <h3>退火果蝇算法</h3>
+                    <p>SA算法是在引入退火机制的基础上，提出一种改进的果蝇优化算法。</p>
+                    <p>算法通过引入模拟退火操作，使个体在进化过程中以一定概率进行突变，
+                        从而引向全局最优解，较好地避免了FOA易早熟收敛陷入局部最优。</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,81 @@
+{% extends "base.html" %} {% block main %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-flag"></span> Please choose</h3>
+                </div>
+                <div class="panel-body">
+                    <form action="/signin" method="post">
+                        <div>
+                            <label>对比算法</label>
+                            <!--<input type="email" name="email" class="form-control" placeholder="Email">
+                            <p class="help-block">Use email: admin@example.com</p>-->
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="PSO">粒子群算法PSO
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="GA">遗传算法GA
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="FOA">果蝇算法FOA
+                            </label>
+                        </div>
+                        <div class="checkbox">
+                            <label>
+                                <input type="checkbox" name="SA">退火果蝇算法SA
+                            </label>
+                        </div>
+                        <div class="form-group"> 
+                        </div>
+                        <div>
+                            <label>子任务数</label>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="subtaskNumber" id="optionsRadios1" value="option1">5
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="subtaskNumber" id="optionsRadios2" value="option1">10
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="subtaskNumber" id="optionsRadios3" value="option1">15
+                            </label>
+                        </div>
+                        <div class="radio">
+                            <label>
+                                <input type="radio" name="subtaskNumber" id="optionsRadios4" value="option1">20
+                            </label>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Enter</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title"><span class="glyphicon glyphicon-film"></span> Comparison diagram </h3>
+                </div>
+                <div class="panel-body">
+                    <!--<video width="100%" controls="controls">
+                        <source src="https://github.com/michaelliao/learn-javascript/raw/master/video/vscode-nodejs.mp4">
+                    </video>-->
+                    <img src="/static/images/Hotkeys.jpg" class="img-responsive">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
